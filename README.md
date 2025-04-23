@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Rogers-Wandera
-- 👀 I’m interested in learning more technologies aside the ones i know
-- 🌱 I’m currently working with javascript. With javascript frameworks React js, Next Js, Angular, React native, html and css and many more other technologies.
-- 💞️ I’m looking to collaborate on many existing and new projects.
-- 📫 How to reach me.. rogerrisha@gmail.com. 
+👋 Hi, I’m @Rogers-Wandera
+
+👀 I’m passionate about exploring new technologies beyond the ones I already know
+
+🌱 Currently growing my skills in full-stack development and AI/ML
+
+💞️ Open to collaborating on both existing and new projects
+
+📫 Reach me at: rogerrisha@gmail.com
 
 <!---
 Rogers-Wandera/Rogers-Wandera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
